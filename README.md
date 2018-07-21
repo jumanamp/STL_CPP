@@ -1,11 +1,13 @@
-## Author: Jumana Mundichipparakkal
+### Sample Exercises on STL library Cpluplus
 
-### Sample Exercies on STL library Cpluplus
+This repository is used to experiment some sample code to learn containers in STL cplusplus library.
 
-##### Sequential Containers
+## Sequential Containers
 
-######Vector and List
+#### Vector and List
 
-code source code: vector_list.cpp
+     Source code: vector_list.cpp
+     Code: Just an example class used to populate vector/list and access elements, remove elements etc.
+
 
 
